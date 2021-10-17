@@ -8,4 +8,4 @@ Patterns are nlanguage neutral, I just chose to implement in python
 
 Note about Polymorphism: Polymorphism allows child classes to be instantiated and treated as same type as its parent.
 
-- Link to full course: https://www.linkedin.com/learning/python-design-patterns-2015?trk=flagship-lil_details_certification&trk=lil_details_certification&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BYnMVihuMR0i35ieduJ%2FwUA%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base-lil_details_certification
+- Link to full course I took my notes on: https://www.linkedin.com/learning/python-design-patterns-2015
